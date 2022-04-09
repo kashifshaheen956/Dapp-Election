@@ -2,12 +2,6 @@
 
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
-## 2022 Updated Code
-
-out-of-the-box for use!
-
-Fix several issues, check CHANGELOG for detail.
-
 ## Dependencies
 
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
